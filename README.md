@@ -1,6 +1,6 @@
 # DecHOI: Decoupled Generative Modeling for Human-Object Interaction Synthesis
 
-🚀 Official PyTorch implementation of the CVPR 2025 paper **Decoupled Generative Modeling for Human-Object Interaction Synthesis (CVPR 2026)**
+🚀 Official PyTorch implementation of the CVPR 2026 paper **Decoupled Generative Modeling for Human-Object Interaction Synthesis (CVPR 2026)**
 
 [\[ArXiv\]](https://arxiv.org/abs/2512.19049)
 
