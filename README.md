@@ -70,7 +70,7 @@ export DECHOI_BLENDER_SCENE_FOLDER=/path/to/blender_files
 
 You can download the pretrained DecHOI checkpoint from the link below:
 
-- [dechoi_final.pt](https://kuaicv.synology.me/weights/cvpr2026/DecHOI/dechoi_final.pt)
+- [weight link](https://kuaicv.synology.me/weights/cvpr2026/DecHOI/dechoi_final.pt)
 
 ## Common Commands
 
