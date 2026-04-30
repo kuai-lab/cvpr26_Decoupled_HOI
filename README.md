@@ -66,6 +66,12 @@ export DECHOI_BLENDER_UTILS_ROOT=manip/vis
 export DECHOI_BLENDER_SCENE_FOLDER=/path/to/blender_files
 ```
 
+## Pretrained Weights
+
+You can download the pretrained DecHOI checkpoint from the link below:
+
+- [dechoi_final.pt](https://kuaicv.synology.me/weights/cvpr2026/DecHOI/dechoi_final.pt)
+
 ## Common Commands
 
 Evaluate the model:
