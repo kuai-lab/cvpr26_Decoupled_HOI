@@ -105,14 +105,13 @@ sh scripts/train_dechoi.sh
 If you find this project useful, please consider citing:
 
 ```
-@misc{jung2025decoupledgenerativemodelinghumanobject,
-      title={Decoupled Generative Modeling for Human-Object Interaction Synthesis}, 
-      author={Hwanhee Jung and Seunggwan Lee and Jeongyoon Yoon and SeungHyeon Kim and Giljoo Nam and Qixing Huang and Sangpil Kim},
-      year={2025},
-      eprint={2512.19049},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.19049}, 
+@InProceedings{Jung_2026_CVPR,
+    author    = {Jung, Hwanhee and Lee, Seunggwan and Yoon, Jeongyoon and Kim, SeungHyeon and Nam, Giljoo and Huang, Qixing and Kim, Sangpil},
+    title     = {Decoupled Generative Modeling for Human-Object Interaction Synthesis},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {2253-2263}
 }
 ```
 
